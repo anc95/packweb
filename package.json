@@ -1,0 +1,18 @@
+{
+  "name": "packweb",
+  "version": "0.1.0",
+  "description": "it is not webpack!!!! it is a impelement of  webpack tiny func",
+  "main": "lib/packweb.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/amchaoo/packweb.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "anchao",
+  "license": "MIT"
+}
