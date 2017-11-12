@@ -16,6 +16,7 @@
   "author": "anchao",
   "license": "MIT",
   "dependencies": {
-    "co": "^4.6.0"
+    "co": "^4.6.0",
+    "esprima": "^4.0.0"
   }
 }
