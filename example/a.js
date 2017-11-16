@@ -1,4 +1,6 @@
 //module a
 const b = require('./b.js');
-const c = require('./c.js');
-b();
+require.ensure(["./c.js"], function(require) {
+    require("./b.js").xyz();
+    var d = require("./d.js");
+});
